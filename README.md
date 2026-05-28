@@ -29,7 +29,7 @@ The project demonstrates how mathematical fraction operations can be implemented
 
 
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Jupyter Notebook
